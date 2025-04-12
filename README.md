@@ -14,12 +14,6 @@
 ```bash
 pip install -r Requirements.txt
 ```
-
-### Запуск проекта в виртуальном окружении:
-```bash
-python3 main.py
-```
-
 ### Отключение виртуального окружения:
 ```bash
 deactivate
