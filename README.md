@@ -1,17 +1,23 @@
-Установка виртуального окружения:
-    python3 -m venv venv
-
+## Установка виртуального окружения:
+```bash
+python3 -m venv venv
+```
 Активация виртуального окружения:
-    Linux:
-        source venv/bin/activate
-    Windows:
-        venv\Scripts\activate
+| Linux:                  | Windows:             |
+|-------------------------|----------------------|
+|source venv/bin/activate |venv\Scripts\activate |
 
-Установка зависимостей:
-    pip install -r Requirements.txt
+## Установка зависимостей:
+```bash
+pip install -r Requirements.txt
+```
 
----Запуск проекта в виртуальном окружении:
-    python3 [имя].py
+# Запуск проекта в виртуальном окружении:
+```bash
+python3 [имя].py
+```
 
-Отключение виртуального окружения:
-    deactivate
+# Отключение виртуального окружения:
+```bash
+deactivate
+```
