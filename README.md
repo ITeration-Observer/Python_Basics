@@ -6,9 +6,9 @@
 
 Активация виртуального окружения:
 
-| Linux:                  | Windows:                    |
-|-------------------------|-----------------------------|
-|source venv/bin/activate |source venv\Scripts\activate |
+| Linux:                  | Windows:             |
+|-------------------------|----------------------|
+|source venv/bin/activate |venv\Scripts\activate |
 
 ## Установка зависимостей:
 ```bash
