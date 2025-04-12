@@ -1,11 +1,14 @@
-## Установка виртуального окружения:
-```bash
-python3 -m venv venv
-```
+Установка виртуального окружения:
+
+| Linux:              | Windows:           |
+|---------------------|--------------------|
+|python3 -m venv venv |python -m venv venv |
+
 Активация виртуального окружения:
-| Linux:                  | Windows:             |
-|-------------------------|----------------------|
-|source venv/bin/activate |venv\Scripts\activate |
+
+| Linux:                  | Windows:                    |
+|-------------------------|-----------------------------|
+|source venv/bin/activate |source venv\Scripts\activate |
 
 ## Установка зависимостей:
 ```bash
